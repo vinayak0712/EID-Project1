@@ -14,8 +14,18 @@ Project Addition:
 
 References:
 http://www.circuitbasics.com/raspberry-pi-basics-setup-without-monitor-keyboard-headless-mode/
+
+
 http://pythonforengineers.com/your-first-gui-app-with-python-and-pyqt/
+
+
 https://pythonspot.com/pyqt5-buttons/https://stackoverflow.com/questions/41458676/attributeerror-qdialog-object-has-no-attribute-setcentralwidget
+
+
 https://www.youtube.com/playlist?list=PLS1QulWo1RIZiBcTr5urECberTITj7gjA
+
+
 https://stackoverflow.com/questions/52015269/displaying-numbers-with-qlcdnumber-display-with-pyqt
+
+
 https://stackoverflow.com/questions/11812000/login-dialog-pyqt
