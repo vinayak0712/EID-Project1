@@ -1,5 +1,7 @@
 # EID-Project1
 Name: Vinayak Srivatsan Kovalam Mohan
+
+
 Project 1 of ECEN-5053-002 Embedded Interface Design Temperature Sensor Interface with Raspberry Pi and UI using QT 
 
 Installation instruction:
