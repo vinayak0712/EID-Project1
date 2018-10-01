@@ -8,6 +8,8 @@ Installation instruction:
 Git clone from https://github.com/vinayak0712/EID-Project1.git
 
 Connect DHT22 sensor at GPIO 4 (Pin #7)
+
+
 Files: EIDProject1.py and EIDProject1.ui
 
 To execute: python3 EIDProject1.py
